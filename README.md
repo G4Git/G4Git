@@ -4,6 +4,8 @@ I'm a **Frontend Developer** passionate about **Green startups**, **App Developm
 
 
 
+---
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **React**, **React Native**, **GSAP**, and exploring **Green Tech Projects**
