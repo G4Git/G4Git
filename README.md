@@ -1,15 +1,15 @@
 # Hi, I’m **@A-vee** 👋
 
-I'm a frontend developer passionate about **green startups**, **app development**, and **Creative Development**. I'm currently working on projects that combine sustainable solutions with cutting-edge technology.
+I'm a frontend developer passionate about **Green startups**, **App Development**, and **Creative Development**. I'm currently working on projects that combine sustainable solutions with cutting-edge technology.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **React**, **React Native**, **GSAP**, and exploring **Green Tech projects**
+- 🌱 I’m currently learning **React**, **React Native**, **GSAP**, and exploring **Green Tech Projects**
 - 💻 I’m working on **frontend development** with a focus on **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **React Native**
-- 👀 I’m interested in **sustainable tech**, **innovative green projects**, and **creative and amazing frontend**
-- 💞️ I’m looking to collaborate on **tech projects that promote sustainability**
+- 👀 I’m interested in **Sustainable Tech**, **Innovative Green Projects**, and **Creative Development**
+- 💞️ I’m looking to collaborate on **Tech projects**
 
 ---
 
@@ -49,27 +49,29 @@ I'm a frontend developer passionate about **green startups**, **app development*
 
 ## 🛠️ Technologies & FrameWork
 
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
-[![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
-[![GSAP](https://img.icons8.com/color/48/000000/greensock.png)](https://greensock.com/gsap/)
+[![React](https://img.icons8.com/office/48/react.png)](https://reactjs.org/)
+[![React Native](https://img.icons8.com/ios-filled/50/61DAFB/react-native.png)](https://reactnative.dev/)
 [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
-[![Spline](https://img.icons8.com/color/48/000000/spline.png)](https://spline.design/)
-
+[![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+<img src="https://seeklogo.com/images/G/greensock-gsap-logo-75B48CEF01-seeklogo.com.png" alt="GSAP" width="150" height="50">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3030143.png?f=webp&w=256" alt="GSAP" width="50" height="50">
+<img src="https://vitejs.dev/logo.svg" alt="GSAP" width="50" height="50">
+<img src="https://www.netlify.com/v3/img/components/logomark.png" alt="GSAP" width="50" height="50">
 
 ---
 
 ## 💬 Programming Languages
 
+[![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/w/)
-[![C](https://img.icons8.com/color/48/000000/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://tailwindcss.com/)
-<img src="https://github.com/user-attachments/assets/78486667-ca83-40d6-a912-b39cc7a3283f" alt="Java" width="50" height="50">
-
 
 ---
 
@@ -82,7 +84,3 @@ Feel free to reach out to me!
 - Twitter: [X_GOBIND_](https://x.com/X_GOBIND_)
 
 ---
-
-## ⚡ Fun Fact
-
-I’ve been the same height (5'5") since I was 13! 😄
