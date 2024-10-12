@@ -1,6 +1,6 @@
 # Hi, I’m **@A-vee** 👋
 
-I'm a frontend developer passionate about **green startups**, **app development**, and **animation technologies**. I'm currently working on projects that combine sustainable solutions with cutting-edge technology.
+I'm a frontend developer passionate about **green startups**, **app development**, and **Creative Development**. I'm currently working on projects that combine sustainable solutions with cutting-edge technology.
 
 ---
 
@@ -20,7 +20,7 @@ I'm a frontend developer passionate about **green startups**, **app development*
 **Description:** A weather app built with React Native that provides real-time weather updates for any location using a weather API.  
 **Technologies:**  TypeScript, OpenAPI
 
-### 🌐 [React Web App](#)
+### 🌐 [React Weacther Web App](#)
 **Role:** Frontend Developer  
 **Description:** A web app developed with React that leverages modern web technologies and responsive design principles.  
 **Technologies:** JavaScript, OpenAPI
@@ -58,7 +58,6 @@ I'm a frontend developer passionate about **green startups**, **app development*
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="100" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100" /></a>
 <a href="https://spline.design/" target="_blank"><img src="https://img.shields.io/badge/-Spline-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" width="100" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="100" /></a>
 
 ---
 
@@ -69,6 +68,7 @@ I'm a frontend developer passionate about **green startups**, **app development*
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" /></a>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="100" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white" alt="C" width="100" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="100" /></a>
 
 ---
 
