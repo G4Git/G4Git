@@ -47,27 +47,29 @@ I'm a frontend developer passionate about **green startups**, **app development*
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & FrameWork
 
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" width="100" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" width="100" /></a>
-<a href="https://greensock.com/gsap/" target="_blank"><img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" width="100" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" /></a>
-<a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/-Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" width="100" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="100" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100" /></a>
-<a href="https://spline.design/" target="_blank"><img src="https://img.shields.io/badge/-Spline-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" width="100" /></a>
+[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+[![React Native](https://img.icons8.com/color/48/000000/react-native.png)](https://reactnative.dev/)
+[![GSAP](https://img.icons8.com/color/48/000000/greensock.png)](https://greensock.com/gsap/)
+[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![Spline](https://img.icons8.com/color/48/000000/spline.png)](https://spline.design/)
+
 
 ---
 
 ## 💬 Programming Languages
 
-<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" /></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="100" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white" alt="C" width="100" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="100" /></a>
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.cppreference.com/w/)
+[![C](https://img.icons8.com/color/48/000000/c.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)](https://tailwindcss.com/)
+<img src="https://github.com/user-attachments/assets/78486667-ca83-40d6-a912-b39cc7a3283f" alt="Java" width="50" height="50">
+
 
 ---
 
