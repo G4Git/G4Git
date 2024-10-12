@@ -53,7 +53,6 @@ I'm a frontend developer passionate about **green startups**, **app development*
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" width="100" /></a>
 <a href="https://greensock.com/gsap/" target="_blank"><img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" width="100" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="100" /></a>
 <a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/-Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" width="100" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="100" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100" /></a>
