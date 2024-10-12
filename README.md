@@ -36,7 +36,7 @@ Designed and developed a dynamic weather application using React Native, deliver
 Developed a web application utilizing React to provide dynamic weather information. The application features modern web technologies and adheres to responsive design principles, ensuring seamless functionality across various devices while enhancing user engagement through a sleek and modern interface.
 
 *Key Features:*
-- Fully responsive design
+- Real-time updates for any location
 - Engaging user experience
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![OpenAPI](https://img.shields.io/badge/OpenAPI-7A7D8C?style=flat-square&logo=openapi&logoColor=white)  
@@ -63,7 +63,7 @@ Recreated a clone of the renowned Awwwards platform, emphasizing exceptional web
 Created a visually appealing branding studio website featuring interactive animations that highlight modern branding techniques. The project emphasizes a blend of creative design and functional usability, showcasing the latest trends in branding.
 
 *Key Features:*
-- Interactive animations
+- Branding theme
 - Trend-focused design
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
