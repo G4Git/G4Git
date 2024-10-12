@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @A-vee  
+- 👀 I’m interested in green startups, app development, and animation technologies  
+- 🌱 I’m currently learning React, React Native, GSAP, and exploring the waste management industry  
+- 💻 I’m currently working on frontend development  
+- 💞️ I’m looking to collaborate on sustainable tech projects and innovative waste management solutions  
+- 📫 How to reach me: pbx1gobind@gmail.com  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I’ve been the same height (5'5") since I was 13!  
