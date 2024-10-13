@@ -43,15 +43,6 @@ I am a dedicated **Frontend Developer** with a passion for merging technology an
 
 ---
 
-## 📚 Data Structures & Algorithms
-
-- Proficient in implementing fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs).
-- Skilled in applying algorithms for searching, sorting, and traversal.
-- Experienced in solving programming challenges in **JavaScript** and **C**.
-- Committed to optimizing solutions for performance and efficiency.
-
----
-
 ## 📫 Contact
 
 Feel free to reach out to me!
