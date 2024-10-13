@@ -21,10 +21,10 @@ I am a dedicated **Frontend Developer** with a passion for merging technology an
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
-<img src="https://seeklogo.com/images/G/greensock-gsap-logo-75B48CEF01-seeklogo.com.png" alt="GSAP" width="150" height="50">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3030143.png?f=webp&w=256" alt="Framer" width="50" height="50">
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="50" height="50">
-<img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="50" height="50">
+<a href="https://greensock.com/gsap" target="_blank"><img src="https://seeklogo.com/images/G/greensock-gsap-logo-75B48CEF01-seeklogo.com.png" width="150" alt="GSAP"></a>
+<a href="https://framermotion.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3030143.png?f=webp&w=256" width="48" alt="Framer"></a>
+<a href="https://vite.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" width="48" alt="Vitr"></a>
+<a href="https://netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" alt="Netlify"></a>
 
 ---
 
