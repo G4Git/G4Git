@@ -1,6 +1,6 @@
 # Hi, I’m **GOBIND** 👋
 
-I am a dedicated **Frontend Developer** with a passion for merging technology and sustainability. My focus is on developing innovative solutions that contribute to **Green startups**, leveraging **App Development** and **Creative Design** principles. Currently, I am engaged in projects that harness the power of technology to promote **sustainable practices** and create impactful user experiences.
+I am a dedicated **Frontend Developer** with a passion for merging technology and sustainability. My focus is on developing innovative solutions that contribute to **Green startups**, leveraging **App Development** and **Creative Design** principles. Currently, I am engaged in projects that harness the power of technology to promote **Sustainable Practices** and create impactful user experiences.
 
 ---
 
