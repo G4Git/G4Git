@@ -25,7 +25,7 @@ I am a dedicated **Frontend Developer** with a passion for merging technology an
 <a href="https://framermotion.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-framer-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-3-pack-logos-icons-3030143.png?f=webp&w=256" width="48" alt="Framer"></a>
 <a href="https://vite.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" width="48" alt="Vitr"></a>
 <a href="https://netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" alt="Netlify"></a>
-
+[![Next.js](https://img.icons8.com/fluency/48/nextjs.png)](https://nextjs.org)  
 ---
 
 ## 💬 Programming Languages
