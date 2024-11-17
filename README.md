@@ -56,7 +56,10 @@ Feel free to reach out to me!
 <img src="https://github-readme-stats.vercel.app/api?username=A-vee&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=A-vee&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />  
 
 ---
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=A-vee&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&area=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=A-vee&bg_color=23282e&color=007BFF&line=007BFF&point=FFFFFF&hide_border=true&area=true)
+
+
+
 
 
 
