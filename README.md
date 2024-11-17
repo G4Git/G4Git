@@ -1,4 +1,4 @@
-# Hi, I’m **GOBIND** 👋
+# Hi, I’m **GOBIND** 👋                 <img src="https://visitcount.itsvg.in/api?id=A-vee&icon=0&color=0" alt="Visitor Count" />
 
 I am a dedicated **Frontend Developer** with a passion for merging technology and sustainability. My focus is on developing innovative solutions that contribute to **Green startups**, leveraging **App Development** and **Creative Design** principles. Currently, I am engaged in projects that harness the power of technology to promote **Sustainable Practices** and create impactful user experiences.
 
@@ -51,5 +51,16 @@ Feel free to reach out to me!
 - GitHub: [github.com/A-vee](https://github.com/A-vee)
 - Twitter: [X_GOBIND_](https://x.com/X_GOBIND_)
 
+## 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-vee&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-vee&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" />  
+
 ---
+
+
+
+
+
+
+
 
