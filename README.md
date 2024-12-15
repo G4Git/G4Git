@@ -2,7 +2,7 @@
  <img src="https://visitcount.itsvg.in/api?id=A-vee&icon=4&color=8" alt="Visitor Count"  style="border-radius: 8px; border: 4px solid rgb(255, 238, 56); padding: 10px;" />
 
 
-## **Full-Stack Developer** | ***React***  | ***React Native***  | ***Next.js***  
+## **Full-Stack Developer** | ***React***  |  ***Next.js***  
 Passionate about building **dynamic apps** and leveraging technology to promote **sustainability** 🌱.
 
 ---
