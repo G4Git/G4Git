@@ -3,7 +3,7 @@
 
 
 # **Full-Stack Developer | React | Next.js** 
-Passionate about building **dynamic apps** and leveraging technology to promote **sustainability** 🌱.
+Passionate about building **Dynamic apps** and leveraging technology to promote **Sustainability** 🌱.
 
 ---
 
