@@ -8,7 +8,6 @@ Passionate about building **Dynamic apps** and leveraging technology to promote 
 
 - 🌱 Currently building with ***Next.js***, ***React***, ***React Native***, and ***Node.js***.
 - 💻 Skilled in ***Frontend*** (HTML, CSS, JavaScript, TypeScript) and ***Backend*** (Node.js , MongoDB , MySQL , Express.js).
-- 🌍 Focused on creating ***Sustainable Tech*** solutions for a positive environmental impact.
 - 💡 Always open to collaboration on ***Innovative Projects*** that push the boundaries of creativity.
 
 ---
