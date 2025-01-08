@@ -37,6 +37,6 @@ Passionate about building **Dynamic apps** and leveraging technology to promote 
 Let’s connect! 🤝
 
 - 📧 Email: [pbx1gobind@gmail.com](mailto:pbx1gobind@gmail.com)  
-- 💻 GitHub: [github.com/A-vee](https://github.com/A-vee)  
+- 💻 GitHub: [G4Git](https://github.com/G4Git)  
 - 🐦 Twitter: [X_GOBIND_](https://x.com/X_GOBIND_)
 
