@@ -3,7 +3,7 @@
 Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
 
 <div >
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="800" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="850" />
 </div>
 
 ## 🚀 **About Me**
