@@ -1,5 +1,5 @@
 
-# **Full-Stack Developer | React | Next.js** 
+# **Full-Stack Developer | React | Next.js**  
 Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
 
 <div >
@@ -9,8 +9,6 @@ Passionate about building **Dynamic apps** and leveraging technology to promote 
 ## 🚀 **About Me**
 - 🌱 Currently building with ***Next.js***, ***React***, ***React Native***, and ***Node.js***.
 - 💻 Skilled in ***Frontend*** (HTML, CSS, JavaScript, TypeScript) and ***Backend*** (Node.js , MongoDB , MySQL , Express.js).
-- 💡 Always open to collaboration on ***Innovative Projects*** that push the boundaries of creativity.
-- *Turning coffee into code since 2022 ☕*
 ---
 
 ## 🛠️ **Technologies & Frameworks**
@@ -41,4 +39,6 @@ Let’s connect! 🤝
 - 📧 Email: [pbx1gobind@gmail.com](mailto:pbx1gobind@gmail.com)  
 - 💻 GitHub: [G4Git](https://github.com/G4Git)  
 - 🐦 Twitter: [X_GOBIND_](https://x.com/X_GOBIND_)
+
+*Turning coffee into code since 2022 ☕*
 
