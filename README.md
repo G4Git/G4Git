@@ -1,4 +1,7 @@
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/G4Git&count_bg=%23ff0000&title_bg=%23001112&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/G4Git&count_bg=%23ff0000&title_bg=%23001112&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+</p>
+
 
 # **Full-Stack Developer | React | React-Native**  
 Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
