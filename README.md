@@ -6,7 +6,7 @@
 
 
 # **Full-Stack Developer | React | React-Native**  
-Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
+
 - 🌱 Currently building with ***Next.js***, ***React***, ***React Native***, and ***Node.js***.
 - 💻 Skilled in ***Frontend*** (HTML, CSS, JavaScript, TypeScript) and ***Backend*** (Node.js , MongoDB , MySQL , Express.js).
 ---
