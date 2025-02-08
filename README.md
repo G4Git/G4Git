@@ -1,3 +1,4 @@
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/G4Git&count_bg=%23FF0000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)
 
 # **Full-Stack Developer | React | React-Native**  
 Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
