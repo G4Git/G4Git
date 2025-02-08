@@ -1,5 +1,5 @@
 
-# **Full-Stack Developer | React | Next.js**  
+# **Full-Stack Developer | React | React-Native**  
 Passionate about building **Dynamic apps** and leveraging technology to promote **Innovation** 🌱.
 
 <div >
