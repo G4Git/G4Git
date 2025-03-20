@@ -7,7 +7,7 @@
 
 | 🚧 **Actively Working On** | **🤝 Let’s Connect!** |
 |--------------------------|----------------------|
-| <div align="center"> 🛠️ Creating full-stack AI-based applications with **`React`**, **`Node.js`**, and **`Next.js`**  <br> ⚡ Building performant, responsive, and dynamic UIs  <br> 🥇 **Open Source Contributions** – Contributing to projects & improving the dev ecosystem </div> | <div align="center"><a href="mailto:pbx1gobind@gmail.com"><img src="https://svgmix.com/uploads/45b641-google-gmail.svg" alt="Email" width="40"></a> <a href="https://github.com/G4Git"><img src="https://svgmix.com/uploads/skillicons/c60ae1-github-dark.svg" alt="GitHub" width="40" height="35"></a> <a href="https://x.com/X4Git"><img src="https://github.com/user-attachments/assets/a18aac73-d413-4967-857b-aa7ef2aa7ad0" alt="Twitter (X)" width="40"></a></div> |
+|  🛠️ Creating full-stack AI-based applications with **`React`**, **`Node.js`**, and **`Next.js`**  <br> ⚡ Building performant, responsive, and dynamic UIs  <br> 🥇 **Open Source Contributions** – Contributing to projects & improving the dev ecosystem  | <div align="center"><a href="mailto:pbx1gobind@gmail.com"><img src="https://svgmix.com/uploads/45b641-google-gmail.svg" alt="Email" width="40"></a> <a href="https://github.com/G4Git"><img src="https://svgmix.com/uploads/skillicons/c60ae1-github-dark.svg" alt="GitHub" width="40" height="35"></a> <a href="https://x.com/X4Git"><img src="https://github.com/user-attachments/assets/a18aac73-d413-4967-857b-aa7ef2aa7ad0" alt="Twitter (X)" width="40"></a></div> |
 
 #
 ## **🛠️ Technologies & Frameworks** 
