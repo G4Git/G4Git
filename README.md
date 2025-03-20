@@ -1,4 +1,4 @@
-#  ` Hi, Gobind here! 👋 `  
+#  Hi, Gobind here! 👋 
 
 | 🚧 **Actively Working On** | **🤝 Let’s Connect!** |
 |--------------------------|----------------------|
