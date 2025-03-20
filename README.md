@@ -1,17 +1,18 @@
+##
 <div align="center">
   <h1>Hi, Gobind here! 👋</h1>
 </div>
-
+<br>
 <div align="center">
 
 | 🚧 **Actively Working On** | **🤝 Let’s Connect!** |
 |--------------------------|----------------------|
 | <div align="center"> 🛠️ Creating full-stack AI-based applications with **`React`**, **`Node.js`**, and **`Next.js`**  <br> ⚡ Building performant, responsive, and dynamic UIs  <br> 🥇 **Open Source Contributions** – Contributing to projects & improving the dev ecosystem </div> | <div align="center"><a href="mailto:pbx1gobind@gmail.com"><img src="https://svgmix.com/uploads/45b641-google-gmail.svg" alt="Email" width="40"></a> <a href="https://github.com/G4Git"><img src="https://svgmix.com/uploads/skillicons/c60ae1-github-dark.svg" alt="GitHub" width="40" height="35"></a> <a href="https://x.com/X4Git"><img src="https://github.com/user-attachments/assets/a18aac73-d413-4967-857b-aa7ef2aa7ad0" alt="Twitter (X)" width="40"></a></div> |
 
----
+#
+## **🛠️ Technologies & Frameworks** 
 
-## **🛠️ Technologies & Frameworks**  
-
+ <br>
 <div align="center">
 
 | **Category**  | **Technologies** |
@@ -22,10 +23,10 @@
 
 </div>
 
----
 
+#
 ## **💬 Programming Languages**  
-
+<br>
 <div align="center">
 
 | <a href="https://github.com/G4Git"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4Git&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/></a> | <div align="center"> ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) <br> ![Python](https://img.icons8.com/color/48/000000/python.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) </div> |
@@ -33,6 +34,6 @@
 
 </div>
 
----
 
+---
 ☕ ***Turning coffee into code since 2023***
